@@ -1,0 +1,45 @@
+{
+  "paths": {
+    "254352": {
+      "path": "paths/Camera/",
+      "assets": {
+        "4805385390543": {
+          "filename": "IMG_20210709_175627.jpg",
+          "lastModified": 1625853387,
+          "duration": 0
+        }
+      }
+    },
+    "876683": {
+      "path": "paths/Reddit/",
+      "assets": {
+        "437854092489234": {
+          "filename": "goth_girl_rule.jpg",
+          "lastModified": 1625826840,
+          "duration": 0
+        },
+        "1315402535634264": {
+          "filename": "iphone_rule.jpg",
+          "lastModified": 1625830440,
+          "duration": 0
+        }
+      }
+    },
+    "6654389": {
+      "path": "paths/Screenshots/",
+      "assets": {
+        "4535342543728950": {
+          "filename": "2021-07-10-205532.png",
+          "lastModified": 1625950532,
+          "duration": 0
+        },
+        "34594327968326643": {
+          "filename": "2021-07-10-205430.png",
+          "lastModified": 1625950470,
+          "duration": 0
+        }
+      }
+
+    }
+  }
+}
